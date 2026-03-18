@@ -4,3 +4,4 @@
 - [2026-03-18T15:08:08Z] fix: handle null pointer exception
 - [2026-03-18T21:47:07Z] fix: handle null pointer exception
 - [2026-03-18T16:28:52Z] perf: optimize loop for better performance
+- [2026-03-18T16:25:11Z] docs: improve inline documentation
