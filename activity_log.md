@@ -8,3 +8,4 @@
 - [2026-03-18T21:07:39Z] feat: add helper utility function
 - [2026-03-18T14:48:09Z] docs: update README with usage examples
 - [2026-04-14T22:30:31Z] chore: remove deprecated API calls
+- [2026-04-14T10:49:02Z] feat: add helper utility function
